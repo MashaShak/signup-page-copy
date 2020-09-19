@@ -1,3 +1,3 @@
-The Odin Project: "PROJECT: HTML FORMS. Mint Sign Up Page" 
+The Odin Project: HTML FORMS. Rebuild Mint sign-up page 
 
-link: 
+Link: https://mashashak.github.io/signup-page-copy/
